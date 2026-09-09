@@ -1,4 +1,10 @@
-# Missing Page Numbers — Chapter 5 Citations
+# Missing Page Numbers — Chapter 5 Citations (RESOLVED)
+
+**Status: resolved.** All 13 PDFs turned out to already be in `Citations folder/`. All 29 citation
+instances now have real page numbers (see commit `bd7b6b0`). In the process, ~12 claims were found
+to be misattributed or unsupported by the source they cited — those were reworded and marked as
+this report's own reasoning rather than a cited finding, rather than assigning a fabricated page.
+Keeping this file for the record of what the original gap was.
 
 These 13 sources are cited 29 times in Chapter 5 (advertiser/subscription/commercial-viability
 content) without page numbers, because the source PDFs weren't available when the citations
